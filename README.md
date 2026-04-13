@@ -79,7 +79,7 @@ Reads require authentication. Writes are restricted to the two devices in the pa
 
 ### 3. Add Your Firebase Config
 
-The app uses Firebase REST API only — no SDK, no `google-services.json`. You'll need to update the database URL in the source to point at your own project.
+The app uses Firebase REST API only — no SDK, no `google-services.json`. You'll need to update the database URL in the source to point at your own project. Paste your key gradle.properties
 
 Your database URL will look like:
 ```
