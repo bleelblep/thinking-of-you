@@ -8,6 +8,8 @@
     <uses-permission android:name="android.permission.VIBRATE" />
     <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
     <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="com.nothing.ketchum.permission.ENABLE" />
+    <uses-permission android:name="com.nothing.permission.GLYPH_INTERFACE" />
 
     <application
         android:allowBackup="true"
@@ -56,16 +58,19 @@
             </intent-filter>
             <meta-data
                 android:name="com.nothing.glyph.toy.name"
-                android:value="@string/app_name" />
+                android:resource="@string/toy_name" />
             <meta-data
                 android:name="com.nothing.glyph.toy.image"
                 android:resource="@drawable/toy_preview" />
             <meta-data
-                android:name="com.nothing.glyph.toy.order"
+                android:name="com.nothing.glyph.toy.summary"
+                android:resource="@string/toy_summary" />
+            <meta-data
+                android:name="com.nothing.glyph.toy.longpress"
                 android:value="1" />
             <meta-data
-                android:name="com.nothing.glyph.toy.summary"
-                android:value="@string/toy_summary" />
+                android:name="com.nothing.glyph.toy.aod_support"
+                android:value="1" />
         </service>
 
     </application>
