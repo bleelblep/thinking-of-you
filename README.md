@@ -1,4 +1,5 @@
-# Thinking of You
+# Thinking of You 
+## An open source ToY - some assembly required
 
 A Glyph Matrix toy for the Nothing Phone 3. Two devices. One small pattern. No words.
 
