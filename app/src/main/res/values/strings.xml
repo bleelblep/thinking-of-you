@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Thinking of You</string>
+    <string name="toy_summary">Send silent pings to your partner</string>
+    <string name="notification_channel_name">Ping Listener</string>
+    <string name="notification_title">Thinking of You</string>
+    <string name="notification_text">Listening for pings...</string>
+    <string name="ping_received_title">Someone is thinking of you!</string>
+    <string name="ping_received_text">Tap to see the animation</string>
+</resources>

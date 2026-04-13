@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.bleelblep.thinkingofyou.app-debug-49:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.bleelblep.thinkingofyou.app-main-51:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.bleelblep.thinkingofyou.app-debug-49:/raw_thinking_of_you_receive.mp3.flat",
+        "source": "com.bleelblep.thinkingofyou.app-main-51:/raw/thinking_of_you_receive.mp3"
+    },
+    {
+        "merged": "com.bleelblep.thinkingofyou.app-debug-49:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.bleelblep.thinkingofyou.app-main-51:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.bleelblep.thinkingofyou.app-debug-49:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.bleelblep.thinkingofyou.app-main-51:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.bleelblep.thinkingofyou.app-debug-49:/drawable_toy_preview.xml.flat",
+        "source": "com.bleelblep.thinkingofyou.app-main-51:/drawable/toy_preview.xml"
+    },
+    {
+        "merged": "com.bleelblep.thinkingofyou.app-debug-49:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.bleelblep.thinkingofyou.app-main-51:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    }
+]

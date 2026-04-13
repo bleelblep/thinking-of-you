@@ -1,0 +1,52 @@
+com.bleelblep.thinkingofyou.app-material-icons-extended-release-0 C:\Users\bridget kawiti\.gradle\caches\8.11.1\transforms\07a59124076fef096471c37453107847\transformed\material-icons-extended-release\res
+com.bleelblep.thinkingofyou.app-tracing-1.2.0-1 C:\Users\bridget kawiti\.gradle\caches\8.11.1\transforms\09da7a02b9aadb0c290e9c1af72b7f73\transformed\tracing-1.2.0\res
+com.bleelblep.thinkingofyou.app-foundation-layout-release-2 C:\Users\bridget kawiti\.gradle\caches\8.11.1\transforms\165f1610a550fb8e44d8c430188991d8\transformed\foundation-layout-release\res
+com.bleelblep.thinkingofyou.app-ui-release-3 C:\Users\bridget kawiti\.gradle\caches\8.11.1\transforms\1722e60b3e06639d9e378fb2f4330d38\transformed\ui-release\res
+com.bleelblep.thinkingofyou.app-ui-unit-release-4 C:\Users\bridget kawiti\.gradle\caches\8.11.1\transforms\1a8545ce1087bfdc541dcdc6cfe3c970\transformed\ui-unit-release\res
+com.bleelblep.thinkingofyou.app-graphics-path-1.0.1-5 C:\Users\bridget kawiti\.gradle\caches\8.11.1\transforms\1ab9a914a66e5faecca1870fcb3deb2a\transformed\graphics-path-1.0.1\res
+com.bleelblep.thinkingofyou.app-annotation-experimental-1.4.1-6 C:\Users\bridget kawiti\.gradle\caches\8.11.1\transforms\1e1ce2e7e40b9ca46c5057bb2bc84a33\transformed\annotation-experimental-1.4.1\res
+com.bleelblep.thinkingofyou.app-customview-poolingcontainer-1.0.0-7 C:\Users\bridget kawiti\.gradle\caches\8.11.1\transforms\229fb45d41e6a7dc95d863a72eae7b4c\transformed\customview-poolingcontainer-1.0.0\res
+com.bleelblep.thinkingofyou.app-ui-test-manifest-1.7.0-8 C:\Users\bridget kawiti\.gradle\caches\8.11.1\transforms\29891f8b28b8cddc69a28c96172dde33\transformed\ui-test-manifest-1.7.0\res
+com.bleelblep.thinkingofyou.app-animation-release-9 C:\Users\bridget kawiti\.gradle\caches\8.11.1\transforms\34ab1b24eb9acc6d6a2f073f2cf98e98\transformed\animation-release\res
+com.bleelblep.thinkingofyou.app-activity-compose-1.10.1-10 C:\Users\bridget kawiti\.gradle\caches\8.11.1\transforms\44945ab54c3c093ccab1d834a9605de1\transformed\activity-compose-1.10.1\res
+com.bleelblep.thinkingofyou.app-material-release-11 C:\Users\bridget kawiti\.gradle\caches\8.11.1\transforms\4aa435fc941522bda8f431371003efd1\transformed\material-release\res
+com.bleelblep.thinkingofyou.app-lifecycle-viewmodel-ktx-2.9.2-12 C:\Users\bridget kawiti\.gradle\caches\8.11.1\transforms\4d1e6198ada6830c4a84f978c4425ecb\transformed\lifecycle-viewmodel-ktx-2.9.2\res
+com.bleelblep.thinkingofyou.app-lifecycle-process-2.9.2-13 C:\Users\bridget kawiti\.gradle\caches\8.11.1\transforms\4e4dcef8227ce0132229cb32d208d7e8\transformed\lifecycle-process-2.9.2\res
+com.bleelblep.thinkingofyou.app-core-ktx-1.16.0-14 C:\Users\bridget kawiti\.gradle\caches\8.11.1\transforms\58e0c62d172700110e5b7d2bf007e72c\transformed\core-ktx-1.16.0\res
+com.bleelblep.thinkingofyou.app-savedstate-ktx-1.3.1-15 C:\Users\bridget kawiti\.gradle\caches\8.11.1\transforms\63aa437c777779a6863b69acfea4b1d9\transformed\savedstate-ktx-1.3.1\res
+com.bleelblep.thinkingofyou.app-ui-text-release-16 C:\Users\bridget kawiti\.gradle\caches\8.11.1\transforms\70aded82f84e94baee0fb0dbee5c0ebe\transformed\ui-text-release\res
+com.bleelblep.thinkingofyou.app-lifecycle-viewmodel-release-17 C:\Users\bridget kawiti\.gradle\caches\8.11.1\transforms\7248b97299f46a17fe94302beb7abfea\transformed\lifecycle-viewmodel-release\res
+com.bleelblep.thinkingofyou.app-lifecycle-runtime-release-18 C:\Users\bridget kawiti\.gradle\caches\8.11.1\transforms\730841d380a9e68aa10756beddf74111\transformed\lifecycle-runtime-release\res
+com.bleelblep.thinkingofyou.app-ui-util-release-19 C:\Users\bridget kawiti\.gradle\caches\8.11.1\transforms\84fa34e792243668b2d55eb447ca8ea2\transformed\ui-util-release\res
+com.bleelblep.thinkingofyou.app-lifecycle-viewmodel-savedstate-release-20 C:\Users\bridget kawiti\.gradle\caches\8.11.1\transforms\8552dc246edfa9db506dfa1cfe5341fe\transformed\lifecycle-viewmodel-savedstate-release\res
+com.bleelblep.thinkingofyou.app-animation-core-release-21 C:\Users\bridget kawiti\.gradle\caches\8.11.1\transforms\96cfaf8018f15a23c87a9c5ac0670037\transformed\animation-core-release\res
+com.bleelblep.thinkingofyou.app-GlyphMatrixSDK-22 C:\Users\bridget kawiti\.gradle\caches\8.11.1\transforms\96dd979539f37aafb2db2d6189e13537\transformed\GlyphMatrixSDK\res
+com.bleelblep.thinkingofyou.app-core-1.16.0-23 C:\Users\bridget kawiti\.gradle\caches\8.11.1\transforms\9a42abb6d6494ce25d6213be6f37263e\transformed\core-1.16.0\res
+com.bleelblep.thinkingofyou.app-runtime-saveable-release-24 C:\Users\bridget kawiti\.gradle\caches\8.11.1\transforms\9d3a9581251188f4a19c20decf18b8fc\transformed\runtime-saveable-release\res
+com.bleelblep.thinkingofyou.app-ui-geometry-release-25 C:\Users\bridget kawiti\.gradle\caches\8.11.1\transforms\9f13a88c53672959b7616efe3ca336df\transformed\ui-geometry-release\res
+com.bleelblep.thinkingofyou.app-ui-tooling-data-release-26 C:\Users\bridget kawiti\.gradle\caches\8.11.1\transforms\aa5d8d3a046a276f07a824fc80b0a1ec\transformed\ui-tooling-data-release\res
+com.bleelblep.thinkingofyou.app-foundation-release-27 C:\Users\bridget kawiti\.gradle\caches\8.11.1\transforms\aaefdcdcf409a8deae73ec68228806f7\transformed\foundation-release\res
+com.bleelblep.thinkingofyou.app-core-runtime-2.2.0-28 C:\Users\bridget kawiti\.gradle\caches\8.11.1\transforms\b164298045610576b2a25c9cb4c23e32\transformed\core-runtime-2.2.0\res
+com.bleelblep.thinkingofyou.app-ui-tooling-preview-release-29 C:\Users\bridget kawiti\.gradle\caches\8.11.1\transforms\b9a072a5398802c838d131e1a5397151\transformed\ui-tooling-preview-release\res
+com.bleelblep.thinkingofyou.app-lifecycle-livedata-core-2.9.2-30 C:\Users\bridget kawiti\.gradle\caches\8.11.1\transforms\be569cb7cf967e60336da104737ddbb4\transformed\lifecycle-livedata-core-2.9.2\res
+com.bleelblep.thinkingofyou.app-lifecycle-runtime-compose-release-31 C:\Users\bridget kawiti\.gradle\caches\8.11.1\transforms\c5682c0226a4f8ed4d2b2cb8a08ea471\transformed\lifecycle-runtime-compose-release\res
+com.bleelblep.thinkingofyou.app-ui-tooling-release-32 C:\Users\bridget kawiti\.gradle\caches\8.11.1\transforms\c9736fdf0fb2243f2547120df2dfc721\transformed\ui-tooling-release\res
+com.bleelblep.thinkingofyou.app-startup-runtime-1.1.1-33 C:\Users\bridget kawiti\.gradle\caches\8.11.1\transforms\d4c5419693f837eebddb887747f95a1b\transformed\startup-runtime-1.1.1\res
+com.bleelblep.thinkingofyou.app-runtime-release-34 C:\Users\bridget kawiti\.gradle\caches\8.11.1\transforms\d9edd6b9a9d9b8ac2ed0198f2709a45f\transformed\runtime-release\res
+com.bleelblep.thinkingofyou.app-activity-ktx-1.10.1-35 C:\Users\bridget kawiti\.gradle\caches\8.11.1\transforms\dbc5a82379020a59dac25579c6477a10\transformed\activity-ktx-1.10.1\res
+com.bleelblep.thinkingofyou.app-material-ripple-release-36 C:\Users\bridget kawiti\.gradle\caches\8.11.1\transforms\e34e43e2526342b205dac3a7764c9994\transformed\material-ripple-release\res
+com.bleelblep.thinkingofyou.app-material-icons-core-release-37 C:\Users\bridget kawiti\.gradle\caches\8.11.1\transforms\e42497218f818ac433ceb4ed4defecc8\transformed\material-icons-core-release\res
+com.bleelblep.thinkingofyou.app-profileinstaller-1.4.0-38 C:\Users\bridget kawiti\.gradle\caches\8.11.1\transforms\edd5fe54ef83bf86f933c89c20f33cd9\transformed\profileinstaller-1.4.0\res
+com.bleelblep.thinkingofyou.app-material3-release-39 C:\Users\bridget kawiti\.gradle\caches\8.11.1\transforms\f05ef868ca0f438ebd98b29812d4e3a6\transformed\material3-release\res
+com.bleelblep.thinkingofyou.app-emoji2-1.3.0-40 C:\Users\bridget kawiti\.gradle\caches\8.11.1\transforms\f9caa547508a012762f421c3c63e36d4\transformed\emoji2-1.3.0\res
+com.bleelblep.thinkingofyou.app-core-viewtree-1.0.0-41 C:\Users\bridget kawiti\.gradle\caches\8.11.1\transforms\fbec202e4d898202eedcb38956f20fdc\transformed\core-viewtree-1.0.0\res
+com.bleelblep.thinkingofyou.app-ui-graphics-release-42 C:\Users\bridget kawiti\.gradle\caches\8.11.1\transforms\fcdaf28699cc4114e6d32da17e246a20\transformed\ui-graphics-release\res
+com.bleelblep.thinkingofyou.app-activity-1.10.1-43 C:\Users\bridget kawiti\.gradle\caches\8.11.1\transforms\fdc69ff0892fcc2f8cb1a2edba8ee609\transformed\activity-1.10.1\res
+com.bleelblep.thinkingofyou.app-savedstate-release-44 C:\Users\bridget kawiti\.gradle\caches\8.11.1\transforms\febbb0a126823a145b804846037c852c\transformed\savedstate-release\res
+com.bleelblep.thinkingofyou.app-pngs-45 D:\AndroidStudio\ThinkingOfYou\app\build\generated\res\pngs\debug
+com.bleelblep.thinkingofyou.app-resValues-46 D:\AndroidStudio\ThinkingOfYou\app\build\generated\res\resValues\debug
+com.bleelblep.thinkingofyou.app-packageDebugResources-47 D:\AndroidStudio\ThinkingOfYou\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.bleelblep.thinkingofyou.app-packageDebugResources-48 D:\AndroidStudio\ThinkingOfYou\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.bleelblep.thinkingofyou.app-debug-49 D:\AndroidStudio\ThinkingOfYou\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.bleelblep.thinkingofyou.app-debug-50 D:\AndroidStudio\ThinkingOfYou\app\src\debug\res
+com.bleelblep.thinkingofyou.app-main-51 D:\AndroidStudio\ThinkingOfYou\app\src\main\res
